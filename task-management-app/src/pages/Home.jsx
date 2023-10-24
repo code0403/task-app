@@ -56,6 +56,7 @@ const Home = () => {
         ) : (
           <Text fontFamily={"Poppins, sans-serif"} fontSize={"18"} mt={5}>
             Click on the button to create Tasks for the day.
+            {token}
           </Text>
         )}
       </Box>
