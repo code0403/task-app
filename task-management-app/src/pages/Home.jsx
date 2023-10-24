@@ -25,7 +25,7 @@ const Home = () => {
   }
 
   return (
-    <Box mt={"50"} height={"100vH"}>
+    <Box height={"100vh"} bg={'green.100'}>
       <Text fontFamily={"Poppins, sans-serif"} fontSize={"28"}>
         Welcome, Let's get start with the day.
       </Text>
